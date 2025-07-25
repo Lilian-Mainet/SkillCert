@@ -9,7 +9,7 @@ const address2 = accounts.get("wallet_2")!;
 const address3 = accounts.get("wallet_3")!;
 const deployer = accounts.get("deployer")!;
 
-const contractName = "skill-cert";
+const contractName = "skill_cert";
 
 // Issuer type constants
 const ISSUER_EDUCATIONAL = 1;
